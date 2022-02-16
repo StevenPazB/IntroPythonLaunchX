@@ -1,6 +1,9 @@
 #Virtual Environment cmd
 
 We need to create a **virtual environment** in the command line (cmd). It is going to be created in the _path_ where you are located in:
+
+https://user-images.githubusercontent.com/99289617/154355397-f8967bc1-af45-4038-8f45-16b7194a0f48.png
+
 ![example_Path](https://user-images.githubusercontent.com/99289617/154355059-fa6f71b7-3db8-4544-84bf-1eabd0307fbf.png)
 
 Feel free to choose where you want the **virtual environment** with **cd**:
